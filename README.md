@@ -19,7 +19,7 @@ Pre-requisites:
 Install npm i -D jest
 Run npm test 
 
-The tests and the output are added as gifs under the main folder(Employee Summary)
+The tests and the output are added as gifs under the main folder(Employee Template)
 
 URL:
 https://github.com/steffijerome0809/EmployeeTemplate
